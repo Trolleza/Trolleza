@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Graziele Dantas <img src="https://media2.giphy.com/media/HAnmZ26SAf49HhPHn5/giphy.gif" width="25px">
+<hr>
+<br>
+[<img align="left" alt="grazieledantas | LinkedIn" width="22px" src="./linkedin.svt" />][linkedin]
+[linkedin]: https://www.linkedin/in/trolleza/
 
-<!--
-**Trolleza/Trolleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Trolleza/Trolleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
