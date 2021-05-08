@@ -88,7 +88,7 @@ I really like games, music, movies, books, rpg and everything that can develop m
 
 [linkedin]: https://www.linkedin.com/in/trolleza/
 [gmail]: mailto:elentary@gmail.com
-[medium]: https://elentary.medium.com/
+[medium]: https://medium.com/@elentary
 [facebook]: https://www.facebook.com/elentary
 [whatsapp]: http://api.whatsapp.com/send?phone=5562991719791
 
