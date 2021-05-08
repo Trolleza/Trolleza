@@ -1,4 +1,6 @@
-### Hi there, I'm Graziele Dantas <img src="http://media1.giphy.com/media/PTtGoz2GijZToMhh38/giphy.gif" width="100px">
+### <img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" width="100px"> Hi there, I'm Graziele Dantas <img src="http://media1.giphy.com/media/PTtGoz2GijZToMhh38/giphy.gif" width="100px">
+
+
 <hr>
 <br>
 [<img align="left" alt="grazieledantas | LinkedIn" width="22px" src="./linkedin.svt" />][linkedin]
