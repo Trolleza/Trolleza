@@ -1,11 +1,11 @@
 <!--**Trolleza/Trolleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## <img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" width="150px"> &nbsp; I'm Graziele Dantas, nice to meet you! 
 
-[<img align="left" alt="grazieledantas | LinkedIn" width="30px" target="_blank" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="grazieledantas | Gmail" width="30px" target="_blank" src="./gmail.svg" />][gmail]
-[<img align="left" alt="grazieledantas | Whatsapp" width="30px" target="_blank" src="./whatsapp.svg" />][whatsapp]
-[<img align="left" alt="grazieledantas | Facebook" width="30px" target="_blank" src="./facebook 2.svg" />][facebook]
-[<img align="left" alt="grazieledantas | Medium" width="30px" target="_blank" src="./medium.svg" />][medium]
+[<img align="left" alt="grazieledantas | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="grazieledantas | Gmail" width="30px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="grazieledantas | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
+[<img align="left" alt="grazieledantas | Facebook" width="30px" src="./facebook 2.svg" />][facebook]
+[<img align="left" alt="grazieledantas | Medium" width="30px" src="./medium.svg" />][medium]
 <br><br>
 ![](https://www.codewars.com/users/Trolleza/badges/micro)
 
