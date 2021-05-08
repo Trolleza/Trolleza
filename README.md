@@ -1,4 +1,5 @@
-### <img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" width="100px"> Hi there, I'm Graziele Dantas <img src="http://media1.giphy.com/media/PTtGoz2GijZToMhh38/giphy.gif" width="100px">
+### <img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" width="100px"> I'm Graziele Dantas, nice to meet you!
+<img src="http://media1.giphy.com/media/PTtGoz2GijZToMhh38/giphy.gif" width="100px">
 
 
 <hr>
