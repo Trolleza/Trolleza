@@ -3,7 +3,7 @@
 
 <hr>
 <br>
-[<img align="left" alt="grazieledantas | LinkedIn" width="22px" src="./linkedin.svt" />][linkedin]
+[<img align="left" alt="grazieledantas | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin/in/trolleza/
 
 <!--**Trolleza/Trolleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
