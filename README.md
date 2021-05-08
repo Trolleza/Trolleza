@@ -5,6 +5,10 @@
 <hr>
 <br>
 
+<a target="_blank" href="https://www.linkedin.com/in/trolleza/">
+                <i src="./linkedin.svg"></i>
+              </a>
+
 [<img align="left" alt="grazieledantas | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/trolleza/
 [<img align="left" alt="grazieledantas | Gmail" width="22px" src="./gmail.svg" />][gmail]
