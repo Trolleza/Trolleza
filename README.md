@@ -38,6 +38,8 @@ I really like games, music, movies, books, rpg and everything that can develop m
 
 ### My Stack
 
+<!--https://simpleicons.org-->
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=for-the-badge&logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,13 +75,13 @@ I really like games, music, movies, books, rpg and everything that can develop m
 
 #### Business:
 
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
+<!--[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)-->
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/Trolleza/Trolleza?color=yellow" alt="Visitors badge" />
  </a>
