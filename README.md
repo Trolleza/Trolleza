@@ -5,7 +5,7 @@
 <hr>
 <br>
 [<img align="left" alt="grazieledantas | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin/in/trolleza/
+[linkedin]: https://www.linkedin.com/in/trolleza/
 
 
 
