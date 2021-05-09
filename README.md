@@ -32,12 +32,12 @@ I really like games, music, movies, books, rpg and everything that can develop m
 
 ### GitHub Stats
 
-![Graziele Dantas's github stats](https://github-readme-stats.vercel.app/api?username=Trolleza&show_icons=true&theme=great-gatsby)  &nbsp;   &nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trolleza&theme=great-gatsby&layout=compact)
+<!--https://github.com/anuraghazra/github-readme-stats-->
+![Graziele Dantas's github stats](https://github-readme-stats.vercel.app/api?username=Trolleza&show_icons=true&theme=cobalt)  &nbsp;   &nbsp; 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trolleza&theme=cobalt&layout=compact)
 
 
 ### My Stack
-
 
 <!--https://simpleicons.org-->
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
