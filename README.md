@@ -30,6 +30,7 @@ I really like games, music, movies, books, rpg and everything that can develop m
 - [MealsAndCocktails](https://mealsandcocktails.netlify.app) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="30px">
 
 
+
 ### GitHub Stats
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
@@ -37,10 +38,12 @@ I really like games, music, movies, books, rpg and everything that can develop m
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trolleza&theme=cobalt&layout=compact)
 
 
+
 ### My Stack
 
 <!--https://simpleicons.org-->
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+
 #### Languages:
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=for-the-badge&logo=javascript&logoColor=white)
 
@@ -60,6 +63,7 @@ I really like games, music, movies, books, rpg and everything that can develop m
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 
+
 #### Utilities:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -70,10 +74,12 @@ I really like games, music, movies, books, rpg and everything that can develop m
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
+
 #### DevOps:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 #### Business:
 
