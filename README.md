@@ -1,4 +1,5 @@
 <!--**Trolleza/Trolleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--https://giphy.com-->
 ## <img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" width="150px"> &nbsp; I'm Graziele Dantas, nice to meet you! 
 
 [<img align="left" alt="grazieledantas | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
