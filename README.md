@@ -92,7 +92,7 @@ I really like games, music, movies, books, rpg and everything that can develop m
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)-->
 <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/Trolleza/Trolleza?color=yellow" alt="Visitors badge" />
+    <img align="right" src="https://badges.pufler.dev/visits/Trolleza/Trolleza?color=pink" alt="Visitors badge" />
  </a>
 
 [linkedin]: https://www.linkedin.com/in/trolleza/
