@@ -38,8 +38,10 @@ I really like games, music, movies, books, rpg and everything that can develop m
 
 ### My Stack
 
+
 <!--https://simpleicons.org-->
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+#### Languages:
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### Application and Data:
