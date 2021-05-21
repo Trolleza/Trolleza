@@ -31,7 +31,7 @@ I really like games, music, movies, books, rpg and everything that can develop m
 - [MealsAndCocktails](https://mealsandcocktails.netlify.app) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="30px">
 - [Intermed](https://intermed.netlify.app) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="30px">
 - Obs: Once this is a close app to be used by hospital and Medical Institutions, is not possible for the regular user to sign up himself, so for test purposes we recommend you to use the following user:
-Email: admin@mail.com /
+Email: admin@mail.com 
 Password:Admin@123
 
 
