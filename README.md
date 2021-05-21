@@ -30,8 +30,8 @@ I really like games, music, movies, books, rpg and everything that can develop m
 - [Bee-Game](https://trolleza.github.io/Bee-Game/) <img src="https://media.giphy.com/media/LSET97hcXZK9i/giphy.gif" width="30px">
 - [MealsAndCocktails](https://mealsandcocktails.netlify.app) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="30px">
 - [Intermed](https://intermed.netlify.app) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="30px">
-Obs: Once this is a close app to be used by hospital and Medical Institutions, is not possible for the regular user to sign up himself, so for test purposes we recommend you to use the following user:
-Email: admin@mail.com
+- Obs: Once this is a close app to be used by hospital and Medical Institutions, is not possible for the regular user to sign up himself, so for test purposes we recommend you to use the following user:
+Email: admin@mail.com /
 Password:Admin@123
 
 
