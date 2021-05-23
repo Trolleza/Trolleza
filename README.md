@@ -35,8 +35,8 @@ I really like games, music, movies, books, rpg and everything that can develop m
 - [MealsAndCocktails](https://mealsandcocktails.netlify.app) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="30px">
 - [Intermed](https://intermed.netlify.app) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="40px">
 - Obs: We have created a test ADMIN user in order for anyone to be able to test the application. So, for test purposes we recommend you use the following user:
--  Email: admin@mail.com 
--  Password: Admin@123:
+Email: admin@mail.com 
+Password: Admin@123:
 
 
 ### GitHub Stats
