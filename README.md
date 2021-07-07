@@ -5,8 +5,6 @@
 [<img align="left" alt="grazieledantas | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="grazieledantas | Gmail" width="30px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="grazieledantas | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
-[<img align="left" alt="grazieledantas | Facebook" width="30px" src="./facebook 2.svg" />][facebook]
-[<img align="left" alt="grazieledantas | Medium" width="30px" src="./medium.svg" />][medium]
 <br><br>
 ![](https://www.codewars.com/users/Trolleza/badges/micro)
 
