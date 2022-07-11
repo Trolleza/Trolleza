@@ -2,9 +2,9 @@
 <!--https://giphy.com -> Search: "what you want" @Stickers-->
 ## <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="200px"> &nbsp; I'm Graziele Dantas, nice to meet you! 
 
-[<img align="left" alt="grazieledantas | LinkedIn" width="50px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="grazieledantas | Gmail" width="50px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="grazieledantas | Whatsapp" width="50px" src="./whatsapp.svg" />][whatsapp]
+[<img align="left" alt="grazieledantas | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="grazieledantas | Gmail" width="30px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="grazieledantas | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
 
 <br><br>
 ![](https://www.codewars.com/users/Trolleza/badges/micro)
