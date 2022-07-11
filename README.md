@@ -2,9 +2,9 @@
 <!--https://giphy.com -> Search: "what you want" @Stickers-->
 ## <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="200px"> &nbsp; I'm Graziele Dantas, nice to meet you! 
 
-[<img align="left" alt="grazieledantas | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="grazieledantas | Gmail" width="30px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="grazieledantas | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
+[<img align="left" alt="grazieledantas | LinkedIn" width="50px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="grazieledantas | Gmail" width="50px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="grazieledantas | Whatsapp" width="50px" src="./whatsapp.svg" />][whatsapp]
 
 <br><br>
 ![](https://www.codewars.com/users/Trolleza/badges/micro)
@@ -16,13 +16,13 @@
 
 I love beautiful things, due to this passion I learned to develop my good taste working with interior design. During the pandemic, I needed to reinvent myself and I took advantage of the fact that I have always found working with computers quite easy and enjoyable. This motivated me to make a complete change in my professional life. I discovered my new vocation in programming and I was able to mix my good taste with this new talent and skill, in order to create beautiful things on the internet.
 
-<img src="https://media.giphy.com/media/X7jYaZR9uxmovsYWPR/giphy.gif" width="30px"> &nbsp; I have always pursued my desires and when I did not have the necessary skills I  dedicated myself to studying in order to acquire the necessary knowledge to perform the task. Therefore, not only have I felt pretty comfortable with the challenge of learning how to program, but i must say this has brought to me a lot of satisfaction.
+<img src="https://media.giphy.com/media/X7jYaZR9uxmovsYWPR/giphy.gif" width="50px"> &nbsp; I have always pursued my desires and when I did not have the necessary skills I  dedicated myself to studying in order to acquire the necessary knowledge to perform the task. Therefore, not only have I felt pretty comfortable with the challenge of learning how to program, but i must say this has brought to me a lot of satisfaction.
 
 
-<img src="https://media.giphy.com/media/VGbpeD8L7QFFprYzG2/giphy.gif" width="30px"> &nbsp; I graduated in law and have always enjoyed reading and absorbing new knowledge. On the other hand, I have loved playing videogames since I was very young. These factors contributed to my attraction for this infinite and incredible universe.
+<img src="https://media.giphy.com/media/VGbpeD8L7QFFprYzG2/giphy.gif" width="50px"> &nbsp; I graduated in law and have always enjoyed reading and absorbing new knowledge. On the other hand, I have loved playing videogames since I was very young. These factors contributed to my attraction for this infinite and incredible universe.
 
 
-<img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> &nbsp; I recently graduated at Ironhack Bootcamp and now I’m currently looking for new opportunities!
+<img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="50px"> &nbsp; I recently graduated at Ironhack Bootcamp and now I’m currently looking for new opportunities!
 
 
 I really like games, music, movies, books, rpg and everything that can develop my creativity!
@@ -30,9 +30,9 @@ I really like games, music, movies, books, rpg and everything that can develop m
 
 ### **You can discover some of my featured projects here:**
 
-- [Bee-Game](https://trolleza.github.io/Bee-Game/) <img src="https://media.giphy.com/media/LSET97hcXZK9i/giphy.gif" width="30px">
-- [MealsAndCocktails](https://mealsandcocktails.netlify.app) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="30px">
-- [Intermed](https://intermed.netlify.app) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="40px">
+- [Bee-Game](https://trolleza.github.io/Bee-Game/) <img src="https://media.giphy.com/media/LSET97hcXZK9i/giphy.gif" width="50px">
+- [MealsAndCocktails](https://mealsandcocktails.netlify.app) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="50px">
+- [Intermed](https://intermed.netlify.app) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="60px">
 - Obs: We have created a test ADMIN user in order for anyone to be able to test the application. So, for test purposes we recommend you use the following user:
 Email: admin@mail.com 
 Password: Admin@123:
